@@ -55,6 +55,6 @@ public class P2PTopUpScreen {
         fillReceiverCard(receiverCard);
         fillAmount(amount);
         submitButtonClick();
-        Thread.sleep(4000); // Just for visualisation
+        Thread.sleep(4000);
     }
 }
